@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: com.fyralabs.ValaTemplate\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-02 00:00+0000\n"
-"PO-Revision-Date: 2023-11-07 18:03+0000\n"
-"Last-Translator: Niilas Oikarainen <niilasoika@gmail.com>\n"
+"PO-Revision-Date: 2025-05-10 12:46+0000\n"
+"Last-Translator: sudoasd <asdwasd@meiliboxi.fi>\n"
 "Language-Team: Finnish <https://weblate.fyralabs.com/projects/tauOS/"
 "vala-template/fi/>\n"
 "Language: fi\n"
@@ -17,16 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: data/app.desktop.in.in:4
 msgid "tauOS Vala Template"
 msgstr "tauOS Vala-pohja"
 
 #: data/app.desktop.in.in:5
-#, fuzzy
 msgid "A template for tauOS apps written in Vala"
-msgstr "Pohja Valalla kirjoitetuille tauOS-sovelluksille"
+msgstr "Mallipohja Valalla kirjoitetuille tauOS-sovelluksille"
 
 #: data/ui/mainwindow.blp:5
 msgid "Preferences…"
